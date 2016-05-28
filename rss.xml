@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[gareth]]></title>
+        <description><![CDATA[gareth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 May 2016 10:52:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El Capitan]]></title>
+            <description><![CDATA[<article><h1>El Capitan</h1><p>Yosemite</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/762d4898-ac32-4e79-944b-f06318c2e2e6.jpg"></article>]]></description>
+            <link>undefinedel-capitan/index.html</link>
+            <guid isPermaLink="false">768b8d7c-b9af-4d6d-83ca-7d0f5dba45a1</guid>
+            <pubDate>Sat, 28 May 2016 10:52:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
